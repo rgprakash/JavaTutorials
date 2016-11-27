@@ -4,6 +4,8 @@ public class ArrayDemo {
 
 	public static void main(String[] args) {
 		
+		//This new line of code is added to check the GIT Commit
+		System.out.println("This is to check the GIT commit");
 		int[] myIntArray1 = new int[5];
 		
 		for(int i=0;i<=4;i++)
